@@ -131,3 +131,4 @@ dist
 
 ############################################
 service_account.json
+.secrets.ts
